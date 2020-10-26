@@ -1,7 +1,7 @@
 ---
 
-typora-root-url: ./figures
-typora-copy-images-to: ./figures
+
+typora-copy-images-to: ../My Notes
 ---
 
 [TOC]
@@ -117,5 +117,5 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 🌰
 
-<img src="/image-20201026194551360.png" alt="image-20201026194551360" style="zoom:35%;" />
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/image-20201026195808754.png" alt="image-20201026195808754" style="zoom:40%;" />
 
