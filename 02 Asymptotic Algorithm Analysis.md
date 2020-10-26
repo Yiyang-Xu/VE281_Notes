@@ -1,6 +1,6 @@
 ---
 
-
+typora-root-url: ./02-Asymptotic Algorithm Analysis.assets
 ---
 
 [TOC]
@@ -72,23 +72,21 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 #### 👀 I. A sufficient condition of Big-Oh
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026202838250.png" alt="image-20201026202838250" style="zoom:50%;" />
-
-
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026202838250.png" alt="image-20201026202838250" style="zoom:50%;" />
 
 #### II. Rules of Big-Oh
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026202736360.png" alt="image-20201026202736360" style="zoom:50%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026202736360.png" alt="image-20201026202736360" style="zoom:50%;" />
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026202823743.png" alt="image-20201026202823743" style="zoom:50%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026202823743.png" alt="image-20201026202823743" style="zoom:50%;" />
 
 #### III. A Few Results about Common Functions
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026202708178.png" alt="image-20201026202708178" style="zoom:50%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026202708178.png" alt="image-20201026202708178" style="zoom:50%;" />
 
 👀**练习：**
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026202634865.png" alt="image-20201026202634865" style="zoom:40%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026202634865.png" alt="image-20201026202634865" style="zoom:40%;" />
 
 ****
 
@@ -112,13 +110,15 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 - **定义：**如果$T(n)$在集合$O(g(n))$以及$\Omega(g(n))$中, 那么称$T(n)$在集合$\theta(g(n))$中。
   - 数学含义：存在三个正的常数，$c1, c2, n0$ 使得对于所有的$n > n_0$ ,都有$c_1g(n) \le T(n) \le c_2g(n)$
 
-🌰练习
+🌰**练习**
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02-Asymptotic Algorithm Analysis.assets/image-20201026201448015.png" alt="image-20201026201448015" style="zoom:35%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026201448015.png" alt="image-20201026201448015" style="zoom:35%;" />
 
 > Answer: Yes
 
 
 
 # 练习
+
+<img src="/../02 Asymptotic Algorithm Analysis.assets/image-20201026204933612.png" alt="image-20201026204933612" style="zoom:50%;" />
 
