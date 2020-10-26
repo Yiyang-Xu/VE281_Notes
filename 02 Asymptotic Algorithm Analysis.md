@@ -1,14 +1,13 @@
 ---
 
 
-typora-copy-images-to: ../My Notes
 ---
 
 [TOC]
 
 
 
-# Lecture 1: Asymptotic Algorithm Analysis
+# 02: Asymptotic Algorithm Analysis
 
 
 
@@ -73,25 +72,23 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 #### 👀 I. A sufficient condition of Big-Oh
 
-<img src="/image-20201026195126773.png" alt="image-20201026195126773" style="zoom:40%;" />
+
 
 
 
 #### II. Rules of Big-Oh
 
-<img src="/image-20201026195146777.png" alt="image-20201026195146777" style="zoom:50%;" />
 
-<img src="/image-20201026195159988.png" alt="image-20201026195159988" style="zoom:50%;" />
 
 
 
 #### III. A Few Results about Common Functions
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20200926193518935.png" alt="image-20200926193518935" style="zoom:50%;" />
+
 
 👀**练习：**
 
-<img src="/image-20201026195046278.png" alt="image-20201026195046278" style="zoom:40%;" />
+
 
 ****
 
@@ -117,5 +114,5 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 🌰
 
-<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/image-20201026195808754.png" alt="image-20201026195808754" style="zoom:40%;" />
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026201448015.png" alt="image-20201026201448015" style="zoom:35%;" />
 
