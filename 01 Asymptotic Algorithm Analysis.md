@@ -1,3 +1,9 @@
+---
+
+typora-root-url: ./figures
+typora-copy-images-to: ./figures
+---
+
 [TOC]
 
 
@@ -111,5 +117,5 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 🌰
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20201026191344150.png" alt="image-20201026191344150" style="zoom:40%;" />
+<img src="/image-20201026194551360.png" alt="image-20201026194551360" style="zoom:35%;" />
 
