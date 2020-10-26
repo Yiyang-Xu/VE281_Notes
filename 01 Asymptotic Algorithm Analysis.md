@@ -73,15 +73,15 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 #### 👀 I. A sufficient condition of Big-Oh
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20200911194051559.png" alt="image-20200911194051559" style="zoom:50%;" />
+<img src="/image-20201026195126773.png" alt="image-20201026195126773" style="zoom:40%;" />
 
 
 
 #### II. Rules of Big-Oh
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20200926193345039.png" alt="image-20200926193345039" style="zoom:50%;" />
+<img src="/image-20201026195146777.png" alt="image-20201026195146777" style="zoom:50%;" />
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20200926193404044.png" alt="image-20200926193404044" style="zoom:50%;" />
+<img src="/image-20201026195159988.png" alt="image-20201026195159988" style="zoom:50%;" />
 
 
 
@@ -91,7 +91,7 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 👀**练习：**
 
-<img src="/Users/michaelxu/Library/Application Support/typora-user-images/image-20200926193650699.png" alt="image-20200926193650699" style="zoom:50%;" />
+<img src="/image-20201026195046278.png" alt="image-20201026195046278" style="zoom:40%;" />
 
 ****
 
