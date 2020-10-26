@@ -72,23 +72,23 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 #### 👀 I. A sufficient condition of Big-Oh
 
-
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026202838250.png" alt="image-20201026202838250" style="zoom:50%;" />
 
 
 
 #### II. Rules of Big-Oh
 
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026202736360.png" alt="image-20201026202736360" style="zoom:50%;" />
 
-
-
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026202823743.png" alt="image-20201026202823743" style="zoom:50%;" />
 
 #### III. A Few Results about Common Functions
 
-
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026202708178.png" alt="image-20201026202708178" style="zoom:50%;" />
 
 👀**练习：**
 
-
+<img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/02 Asymptotic Algorithm Analysis.assets/image-20201026202634865.png" alt="image-20201026202634865" style="zoom:40%;" />
 
 ****
 
