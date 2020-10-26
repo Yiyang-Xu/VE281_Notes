@@ -105,7 +105,7 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 
 
-# Relative of Big-Oh: 2. Big-Theta
+## Relative of Big-Oh: 2. Big-Theta
 
 - **定义：**如果$T(n)$在集合$O(g(n))$以及$\Omega(g(n))$中, 那么称$T(n)$在集合$\theta(g(n))$中。
   - 数学含义：存在三个正的常数，$c1, c2, n0$ 使得对于所有的$n > n_0$ ,都有$c_1g(n) \le T(n) \le c_2g(n)$
@@ -118,7 +118,7 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 
 
-# 练习
+## 练习
 
 <img src="02 Asymptotic Algorithm Analysis.assets/image-20201026204933612.png" alt="image-20201026204933612" style="zoom:50%;" />
 
@@ -126,5 +126,5 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 
 
-<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026211112014.png" alt="image-20201026211112014" style="zoom:30%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026211112014.png" alt="image-20201026211112014" style="zoom:50%;" />
 
