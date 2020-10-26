@@ -120,5 +120,11 @@ Big-oh notation indicates an upper bound, 通常我们寻找==tightest upper bou
 
 # 练习
 
-<img src="/../02 Asymptotic Algorithm Analysis.assets/image-20201026204933612.png" alt="image-20201026204933612" style="zoom:50%;" />
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026204933612.png" alt="image-20201026204933612" style="zoom:50%;" />
+
+> 答案：C
+
+
+
+<img src="02 Asymptotic Algorithm Analysis.assets/image-20201026211112014.png" alt="image-20201026211112014" style="zoom:30%;" />
 
