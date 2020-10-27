@@ -30,11 +30,11 @@
 
 - ### 实现方式
 
-<img src="03-Comparison Sort.assets/image-20201026213604109.png" alt="image-20201026213604109" width="1000" />
+<img src="03-Comparison Sort.assets/image-20201026213604109.png" alt="image-20201026213604109" width="50%" />
 
 - ### 具体代码
 
-<img src="03-Comparison Sort.assets/image-20201026213906298.png" alt="image-20201026213906298" width="90%;" />
+<img src="03-Comparison Sort.assets/image-20201026213906298.png" alt="image-20201026213906298" width="50%;" />
 
 - ### 特性分析
 
@@ -52,11 +52,11 @@
 
 - ### 实现方式
 
-<img src="03-Comparison Sort.assets/image-20201027121934576.png" alt="image-20201027121934576" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027121934576.png" alt="image-20201027121934576" width="50%;" />
 
 - ### 具体代码
 
-<img src="03-Comparison Sort.assets/image-20201027122443411.png" alt="image-20201027122443411" width="110%;" />
+<img src="03-Comparison Sort.assets/image-20201027122443411.png" alt="image-20201027122443411" width="50%;" />
 
 - ### 特性分析
   - **时间复杂度**：==$O(n^2)$==, 因为对于每个被挑出来的元素都要经历一遍linear scan, 所以是n*n; 同时worst case与best case都是$n^2$
@@ -73,7 +73,7 @@
 
 - ### 具体代码
 
-<img src="03-Comparison Sort.assets/image-20201027123731520.png" alt="image-20201027123731520" width="90%;" />
+<img src="03-Comparison Sort.assets/image-20201027123731520.png" alt="image-20201027123731520" width="50%;" />
 
 - ### 特性分析
 
@@ -91,13 +91,13 @@
 
 - ### 实现方式
 
-<img src="03-Comparison Sort.assets/image-20201027124401454.png" alt="image-20201027124401454" width ="70%;" />
+<img src="03-Comparison Sort.assets/image-20201027124401454.png" alt="image-20201027124401454" width ="50%;" />
 
 - ### 具体代码
 
-<img src="03-Comparison Sort.assets/image-20201027124737997.png" alt="image-20201027124737997" width="100%;" />
+<img src="03-Comparison Sort.assets/image-20201027124737997.png" alt="image-20201027124737997" width="50%;" />
 
-<img src="03-Comparison Sort.assets/image-20201027124813295.png" alt="image-20201027124813295" width="100%;" />
+<img src="03-Comparison Sort.assets/image-20201027124813295.png" alt="image-20201027124813295" width="50%;" />
 
 - ### 特性分析
 
@@ -115,7 +115,7 @@
 
 - ### 实现方式:
 
-<img src="03-Comparison Sort.assets/image-20201027130403934.png" alt="image-20201027130403934" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027130403934.png" alt="image-20201027130403934" width="50%;" />
 
  **⚠️但是在partition这部分有两种: In place or Not In place的实现方法⬇️**
 
@@ -125,11 +125,11 @@
 
 - ##### 思路
 
-<img src="03-Comparison Sort.assets/image-20201027130735565.png" alt="image-20201027130735565" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027130735565.png" alt="image-20201027130735565" width="50%;" />
 
 - ##### 代码实现
 
-<img src="03-Comparison Sort.assets/image-20201027130928338.png" alt="image-20201027130928338" width="100%;" />
+<img src="03-Comparison Sort.assets/image-20201027130928338.png" alt="image-20201027130928338" width="50%;" />
 
 - ##### 简要说明:
 
@@ -143,11 +143,11 @@
 
   ​	找到pivot以后从左右两边同时开始搜索,直到左边哨兵找到比当前pivot大,右边哨兵找到比当前pivot小的元素,且左哨兵的位置在右哨兵的左边(说明两个元素的位置错了),那么交换两个元素.
 
-<img src="03-Comparison Sort.assets/image-20201027131431635.png" alt="image-20201027131431635" width="70%;" />
+<img src="03-Comparison Sort.assets/image-20201027131431635.png" alt="image-20201027131431635" width="50%;" />
 
 - ##### 代码实现
 
-<img src="03-Comparison Sort.assets/image-20201027131318612.png" alt="image-20201027131318612" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027131318612.png" alt="image-20201027131318612" width="50%;" />
 
 - ##### 简要说明:
 
@@ -157,7 +157,7 @@
 
 - ### Quick sort代码实现
 
-<img src="03-Comparison Sort.assets/image-20201027131809626.png" alt="image-20201027131809626" width="100%;" />
+<img src="03-Comparison Sort.assets/image-20201027131809626.png" alt="image-20201027131809626" width="50%;" />
 
 ⚠️无论是in-place还是non-inlace,调用的时候都是一样的,只是在partitioning的部分有所不同.
 
@@ -167,11 +167,11 @@
 
   ​		在每个partioning的过程中,时间复杂度都是$O(N)$,因为只是指针遍历一遍,然后交换元素. 所以整体的时间复杂度是$T(N) = T(LeftSz) + T(RightSz) + O(N)$.所以当worst case的时候,如果每次选中的pivot都是当前最小元素时, $T(RightSz)$始终为0, 总体复杂度为$O(N^2)$.
 
-<img src="03-Comparison Sort.assets/image-20201027132419211.png" alt="image-20201027132419211" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027132419211.png" alt="image-20201027132419211" width="50%;" />
 
 ​				而从平均角度, 每次pivot都刚好把array分成两部分, 那么复杂度跟merge sort是相同的.
 
-<img src="03-Comparison Sort.assets/image-20201027132540673.png" alt="image-20201027132540673" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027132540673.png" alt="image-20201027132540673" width="50%;" />
 
 **⚠️与merge sort的比较:**
 
@@ -189,17 +189,17 @@
 
 ## Comparison Sort总结:
 
-<img src="03-Comparison Sort.assets/image-20201027133037364.png" alt="image-20201027133037364" width="80%;" />
+<img src="03-Comparison Sort.assets/image-20201027133037364.png" alt="image-20201027133037364" width="50%;" />
 
 **⚠️是否能够比$O(n\log n)$复杂度更低?**
 
 ​				答: ==不能==, 基于pairwise比较低复杂度都是$\Omega (N\log N)$
 
-<img src="03-Comparison Sort.assets/image-20201027133338746.png" alt="image-20201027133338746" width="70%;" />
+<img src="03-Comparison Sort.assets/image-20201027133338746.png" alt="image-20201027133338746" width="50%;" />
 
 
 
 ## 重要知识点：Master Method
 
-<img src="03-Comparison Sort.assets/image-20201027135825684.png" alt="image-20201027135825684" width="70%" />
+<img src="03-Comparison Sort.assets/image-20201027135825684.png" alt="image-20201027135825684" width="50%" />
 
