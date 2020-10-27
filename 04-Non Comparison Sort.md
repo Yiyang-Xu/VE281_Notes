@@ -32,7 +32,7 @@
 
 - #### 实现方式
 
-<img src="04-Non Comparison Sort.assets/image-20201027152811076.png" alt="image-20201027152811076" width="60%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027152811076.png" alt="image-20201027152811076" width="60%;" />
 
 <img src="04-Non Comparison Sort.assets/image-20201027153023097.png" alt="image-20201027153023097" width="45%;" /><img src="04-Non Comparison Sort.assets/image-20201027153122953.png" alt="image-20201027153122953" width="45%;" />
 
@@ -48,7 +48,7 @@
 
 - #### 实现方式
 
-<img src="04-Non Comparison Sort.assets/image-20201027153750176.png" alt="image-20201027153750176" width="65%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027153750176.png" alt="image-20201027153750176" width="65%;" />
 
 - #### 时间复杂度
 
@@ -64,15 +64,15 @@
 
 - #### 实现方式
 
-<img src="04-Non Comparison Sort.assets/image-20201027154835435.png" alt="image-20201027154835435" width="65%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027154835435.png" alt="image-20201027154835435" width="65%;" />
 
 
 
-<img src="04-Non Comparison Sort.assets/image-20201027154927424.png" alt="image-20201027154927424" width="60%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027154927424.png" alt="image-20201027154927424" width="60%;" />
 
-<img src="04-Non Comparison Sort.assets/image-20201027155033957.png" alt="image-20201027155033957" width="60%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027155033957.png" alt="image-20201027155033957" width="60%;" />
 
-<img src="04-Non Comparison Sort.assets/image-20201027155106199.png" alt="image-20201027155106199" width="60%;" />
+<img align = "center" src="04-Non Comparison Sort.assets/image-20201027155106199.png" alt="image-20201027155106199" width="60%;" />
 
 - #### 时间复杂度
 
