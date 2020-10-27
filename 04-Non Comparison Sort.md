@@ -4,11 +4,7 @@
 
 - [ ] 了解三种non-comparison sort: counting sort, bucket sort, radix sort
 
-- [ ] 
-
-
-
-## I. Counting sort
+## I. Counting Sort
 
 ### Simple version
 
@@ -18,7 +14,7 @@
 
 - #### 实现方法
 
-![image-20201027150200909](04-Non Comparison Sort.assets/image-20201027150200909.png)
+<img src="04-Non Comparison Sort.assets/image-20201027150200909.png" style="zoom:50%;" />
 
 如果范围是$[a,b]$，那么只需要把每个数减去$a$, 范围转化成$[0, b-a]$。
 
