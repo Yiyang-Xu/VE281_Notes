@@ -197,3 +197,9 @@
 
 <img src="03-Comparison Sort.assets/image-20201027133338746.png" alt="image-20201027133338746" style="zoom:50%;" />
 
+
+
+## 重要知识点：Master Method
+
+<img src="03-Comparison Sort.assets/image-20201027135825684.png" alt="image-20201027135825684" width="500" />
+
