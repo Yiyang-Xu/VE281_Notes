@@ -34,7 +34,7 @@
 
 <img src="04-Non Comparison Sort.assets/image-20201027152811076.png" alt="image-20201027152811076" width="60%;" />
 
-<img src="04-Non Comparison Sort.assets/image-20201027153023097.png" alt="image-20201027153023097" width="45%;" /><img src="/Users/michaelxu/My Document/JI Files/Courses/大三/大三秋/VE281 数据结构与算法/My Notes/04-Non Comparison Sort.assets/image-20201027153122953.png" alt="image-20201027153122953" style="zoom:50%;" />
+<img src="04-Non Comparison Sort.assets/image-20201027153023097.png" alt="image-20201027153023097" width="45%;" /><img src="04-Non Comparison Sort.assets/image-20201027153122953.png" alt="image-20201027153122953" width="45%;" />
 
 ****
 
