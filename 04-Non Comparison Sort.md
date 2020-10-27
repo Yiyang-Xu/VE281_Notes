@@ -14,7 +14,7 @@
 
 - #### 实现方法
 
-<img src="04-Non Comparison Sort.assets/image-20201027150200909.png" width="70%;" />
+<img align = "center"  src="04-Non Comparison Sort.assets/image-20201027150200909.png" width="70%;" />
 
 如果范围是$[a,b]$，那么只需要把每个数减去$a$, 范围转化成$[0, b-a]$。
 
