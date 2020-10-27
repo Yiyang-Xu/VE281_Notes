@@ -79,3 +79,4 @@ Criteria:
 比如说	$homeBucket = c(hashcode) = hashcode \% n$
 
 通常来说，hash table size $n$ 都是奇数因为否则偶数integers始终会被hash到even  home buckets.
+
